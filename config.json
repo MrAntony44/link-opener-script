@@ -1,0 +1,96 @@
+{
+    "program": {
+        "Monday": {
+            "1": "example2",
+            "2": "example7",
+            "3": "example15",
+            "4": "example14",
+            "5": "example5",
+            "6": "example3",
+            "7": "example1"
+        },
+        "Tuesday": {
+            "1": "example8",
+            "2": "example8",
+            "3": "example7",
+            "4": "example12",
+            "5": "example10",
+            "6": "example11",
+            "7": "example3"
+        },
+        "Wednesday": {
+            "1": "example6",
+            "2": "example15",
+            "3": "example3",
+            "4": "example1",
+            "5": "example4",
+            "6": "example9",
+            "7": "example13"
+        },
+        "Thursday": {
+            "1": "example11",
+            "2": "example6",
+            "3": "example13",
+            "4": "example2",
+            "5": "example3",
+            "6": "example10",
+            "7": "example12"
+        },
+        "Friday": {
+            "1": "example2",
+            "2": "example5",
+            "3": "example14",
+            "4": "example1",
+            "5": "example4",
+            "6": "example3",
+            "7": "example9"
+        }
+    },
+    "links": {
+        "example1": "www.google.com",
+        "example2": "www.google.com",
+        "example3": "www.google.com",
+        "example4": "www.google.com",
+        "example5": "www.google.com",
+        "example6": "www.google.com",
+        "example7": "www.google.com",
+        "example8": "www.google.com",
+        "example9": "www.google.com",
+        "example10": "www.google.com",
+        "example11": "www.google.com",
+        "example12": "www.google.com",
+        "example13": "www.google.com",
+        "example14": "www.google.com",
+        "example15": "www.google.com"
+    },
+    "timetable": {
+        "1": {
+            "startTime": "820",
+            "endTime": "900"
+        },
+        "2": {
+            "startTime": "910",
+            "endTime": "950"
+        },
+        "3": {
+            "startTime": "1000",
+            "endTime": "1040"
+        },
+        "4": {
+            "startTime": "1050",
+            "endTime": "1130"
+        },
+        "5": {
+            "startTime": "1140",
+            "endTime": "1220"
+        },
+        "6": {
+            "startTime": "1230",
+            "endTime": "1310"
+        },
+        "7": {
+            "startTime": "1320",
+            "endTime": "1400"
+        }
+    }
+}
